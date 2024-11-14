@@ -1,5 +1,7 @@
 import React from "react";
 
 export default function Navbar() {
-  return <div>Nforjefoirfhiudhiubfibcsbsbbjksnf</div>;
+  return (
+    <div>Nforjefoirnjslcihclshlicjlsjdldcnksdncfhiudhiubfibcsbsbbjksnf</div>
+  );
 }
